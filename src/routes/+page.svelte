@@ -9,9 +9,9 @@
   import RelatedLinks from '$lib/components/RelatedLinks.svelte';
 
   // Article metadata
-  let headline = 'Become a force for good. Join our next class.';
-  let byline = 'NYCity News Service';
-  let pubDate = '2026-01-31';
+  let headline = 'Breaking News: This is my first static site!';
+  let byline = 'Irene Adeline Milanez';
+  let pubDate = '2026-02-03';
 
   // Related stories
   const relatedStories = [
@@ -41,7 +41,7 @@
     src="/example-photo.gif"
     alt="The Craig Newmark Graduate School of Journalism is at 219 West 40th Street in Midtown Manhattan."
     caption="The Craig Newmark Graduate School of Journalism is at 219 West 40th Street in Midtown Manhattan."
-    credit="Craig Newmark Graduate School of Journalism"
+    credit="Irene Adeline Milanez"
   />
 
   <!-- Article Body: The main story text with proper typography -->
